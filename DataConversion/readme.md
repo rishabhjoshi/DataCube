@@ -59,6 +59,9 @@ Use the script tifToHDF5.py. The script converts the GeoTIFF files to HDF4 (whic
 
 #### Using netCDF
 
+Every netCDF-4 or netCDF-4 classic model file can be read or written by the HDF5 library, version 1.8 or later, so in that respect netCDF-4 files are already HDF5 files and need no conversion.
+
+The way netCDF-4 data objects are represented using HDF5 is described in detail in the User Manual section "[C.3 The NetCDF-4 Format](http://www.unidata.ucar.edu/software/netcdf/docs/netcdf.html#NetCDF_002d4-Format)".
 
 ### To ECW
 
