@@ -1,0 +1,102 @@
+Filename = first.nc
+Compression index = 1
+Time taken for compression using bzip2 =62.5302519798
+bzip2 Compressed file size = 82.78487 mb
+Time taken for decompression using bzip2 =25.8887121677
+
+Time taken for compression using lzma =76.8518128395
+lzma Compressed file size = 82.638985 mb
+Time taken for decompression using lzma =28.728441
+
+Time taken for compression using xz =77.0061359406
+xz Compressed file size = 82.655096 mb
+Time taken for decompression using xz =29.1522598267
+
+Time taken for compression using lzop =8.31629014015
+lzop Compressed file size = 91.081184 mb
+Time taken for decompression using lzop =2.07775902748
+
+Time taken for compression using lbzip2 =2.77853798866
+lbzip2 Compressed file size = 83.082962 mb
+Time taken for decompression using lbzip2 =33.6823370457
+
+Time taken for compression using pigz =1.65331506729
+pigz Compressed file size = 86.137606 mb
+Time taken for decompression using pigz =4.23162198067
+
+Time taken for compression using pigz_zlib =1.48250198364
+pigz_zlib Compressed file size = 86.137585 mb
+Time taken for decompression using pigz_zlib =4.21924781799
+
+Time taken for compression using pbzip2 =3.37524580956
+pbzip2 Compressed file size = 82.833233 mb
+Time taken for decompression using pbzip2 =2.37027907372
+
+Filename = first.nc
+Compression index = 5
+Time taken for compression using bzip2 =59.1698160172
+bzip2 Compressed file size = 81.117152 mb
+Time taken for decompression using bzip2 =28.2430238724
+
+Time taken for compression using lzma =201.391256094
+lzma Compressed file size = 80.206512 mb
+Time taken for decompression using lzma =27.9497420788
+
+Time taken for compression using xz =194.872938871
+xz Compressed file size = 80.218964 mb
+Time taken for decompression using xz =28.2039978504
+
+Time taken for compression using lzop =8.0022277832
+lzop Compressed file size = 91.294484 mb
+Time taken for decompression using lzop =2.04253101349
+
+Time taken for compression using lbzip2 =5.61855506897
+lbzip2 Compressed file size = 81.311472 mb
+Time taken for decompression using lbzip2 =7.38528895378
+
+Time taken for compression using pigz =1.7208070755
+pigz Compressed file size = 85.543369 mb
+Time taken for decompression using pigz =3.91153502464
+
+Time taken for compression using pigz_zlib =1.68894219398
+pigz_zlib Compressed file size = 85.543348 mb
+Time taken for decompression using pigz_zlib =4.05053901672
+
+Time taken for compression using pbzip2 =4.08967614174
+pbzip2 Compressed file size = 81.28305 mb
+Time taken for decompression using pbzip2 =2.76152205467
+
+Filename = first.nc
+Compression index = 9
+Time taken for compression using bzip2 =60.521682024
+bzip2 Compressed file size = 80.661884 mb
+Time taken for decompression using bzip2 =31.8070960045
+
+Time taken for compression using lzma =275.815138102
+lzma Compressed file size = 79.807489 mb
+Time taken for decompression using lzma =28.3504300117
+
+Time taken for compression using xz =293.187119961
+xz Compressed file size = 79.819896 mb
+Time taken for decompression using xz =30.4791169167
+
+Time taken for compression using lzop =54.3119559288
+lzop Compressed file size = 88.350497 mb
+Time taken for decompression using lzop =2.20969414711
+
+Time taken for compression using lbzip2 =66.4397308826
+lbzip2 Compressed file size = 80.808886 mb
+Time taken for decompression using lbzip2 =20.3667371273
+
+Time taken for compression using pigz =2.07038378716
+pigz Compressed file size = 85.531132 mb
+Time taken for decompression using pigz =4.05031204224
+
+Time taken for compression using pigz_zlib =1.97021317482
+pigz_zlib Compressed file size = 85.531111 mb
+Time taken for decompression using pigz_zlib =4.04942393303
+
+Time taken for compression using pbzip2 =44.211275816
+pbzip2 Compressed file size = 80.771611 mb
+Time taken for decompression using pbzip2 =13.5264909267
+
