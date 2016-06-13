@@ -1,0 +1,8 @@
+lbzip2 – parallel bzip2 compression utility
+lbzip2 is a multi-threaded compression utility with support for bzip2 compressed file format.lbzip2 can process standard bz2 files in parallel.
+
+PIGZ
+pigz, which stands for parallel implementation of gzip, is a fully functional replacement for gzip that exploits multiple processors and multiple cores to the hilt when compressing data.
+
+PBZIP2
+PBZIP2 is a parallel implementation of the bzip2 block-sorting file compressor that uses pthreads and achieves near-linear speedup on SMP machines. 
