@@ -69,3 +69,25 @@ GeoTIFF can be converted to ECW using ERDAS Imagine, which is a proprietary soft
 This method is more involved. There are tools _ncdum_ and _ncgen_ in both HDFtools and NetCDF tools, so you'll have to rename one so that they dont clash. Another problem is that HDF uses netCDF 2.3.2 when building HDF versions of these tools, which is old, we have to therefore manually edit the intermediate CDL file because hdf-ncgen can't read everything that ncdump can write.
 We therefore didn't use this method.
 
+
+# COMBINING MULTIPLE FILES
+
+## Objective
+
+To convert multiple TIF files (different bands) to one final output file.
+
+We first convert the multiple tif files to one tif file, and then carry on with the conversion as described above.
+
+The two tools used to combine multiple files are
+
+* gdalwarp
+* gdal_merge
+
+
+> Use the following with gdalwarp to speed up gdalwarp, by utilizing the cache and RAM.
+
+```bash
+	--config GDAL_CACHEMAX 3000 -wm 3000
+```
+
+> Have to use _-separate_ with gdal_merge.py to make different bands, and not just mosaic the files.
